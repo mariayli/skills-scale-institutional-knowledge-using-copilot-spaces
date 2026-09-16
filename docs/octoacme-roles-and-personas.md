@@ -1,6 +1,6 @@
 # OctoAcme Personas
 
-This `octoacme-roles-and-personas.md` document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
 
 ---
 
